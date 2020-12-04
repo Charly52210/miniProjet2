@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(245, 177, 146);
+}
+
+h1{
+    text-align: center;
+    font-family: fantasy;
+}
+
+p{
+    color: slateblue;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
